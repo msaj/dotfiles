@@ -1,0 +1,20 @@
+set nocompatible
+set nonumber
+set history=500
+set autoread
+set nobackup
+set noswapfile
+set ruler
+set shiftwidth=4
+set tabstop=4
+set showcmd
+set showmatch
+set ignorecase
+set nohlsearch
+set incsearch
+set expandtab
+set backspace=2
+set encoding=utf8
+syntax enable
+set background=dark
+
