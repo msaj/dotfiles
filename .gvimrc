@@ -1,4 +1,5 @@
 set nocompatible
+set clipboard=unnamed
 set mouse=a
 set number
 set relativenumber
@@ -57,11 +58,10 @@ nnoremap gV `[v`]
 let mapleader=","
 nnoremap <leader>b ^
 nnoremap <leader>e $
-colorscheme desert
+colorscheme industry
 set background=dark
 set laststatus=2
 set undofile
 set undodir=C:\Users\<username>\vimundodir
 
 cd C:\Users\<username>\Desktop
-
